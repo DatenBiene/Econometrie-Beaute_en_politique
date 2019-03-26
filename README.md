@@ -2,7 +2,7 @@
 Projet within the ENSAE second year engineering program
 
 ##
-Notre Google doc de suivit de projet : 
+Notre Google doc de suivit de projet : https://docs.google.com/document/d/12SMobWggk8h_G1UiKihSLUtDqLggk5eApeWNoBgpldM/edit?usp=sharing
 
 ##
 Notre Overleaf : 
