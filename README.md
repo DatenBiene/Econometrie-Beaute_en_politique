@@ -53,12 +53,3 @@ Important : Dans une pull request il doit y avoir 1 ou deux documents modifiés 
 
 Ne pas oublier de faire de bons noms de commit et de pull request (sinon Git perd tout son interet de lisibilité d'évolution du projet)
 
-
-#### Idées pour avancer 
-
-Méthodes générales 
-https://cs.stackexchange.com/questions/61102/detecting-events-in-time-series-data
-https://stackoverflow.com/questions/12851208/how-to-detect-significant-change-trend-in-a-time-series-data
-
-Deep Learning
-https://www.infoq.com/articles/deep-learning-time-series-anomaly-detection
