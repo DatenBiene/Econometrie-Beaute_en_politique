@@ -10,6 +10,10 @@ Notre Overleaf :
 
 Rendre le Vendredi 17 Mai à 18H
 
+### Vidéo aide
+
+Réformons l'élection présidentielle ! — Science étonnante #35 : https://www.youtube.com/watch?v=ZoGH7d51bvc
+
 ### Ligne de conduite
 
 Ne JAMAIS travailler sur master directement.
